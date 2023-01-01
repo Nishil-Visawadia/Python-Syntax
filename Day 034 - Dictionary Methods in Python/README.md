@@ -2,6 +2,8 @@
 
 Dictionary uses several built-in methods for manipulation.They are listed below
 
+[Dictionary in Python Documentation](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
+
 ### update()
 
 The update() method updates the value of the key provided to it if the item already exists in the dictionary, else it creates a new key-value pair.
