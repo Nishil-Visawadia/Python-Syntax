@@ -15,3 +15,6 @@ def func1():
 
 x = func1()
 print(x)
+
+# Important Interview Question
+# What is the use of "Finally" keyword ?
